@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "15kchv1FMaFhB/RdRTaRWcfLPpDrnbeYwQ/ZitDNgh7a4GHNRJ0mJ1ONIMP5+KOHEYpB2c3Pksg/S2ifxMiouw==",
+  "dgSpecHash": "9mQTpJGEblwo2nARa2cxGEIJExlnYNOX3pDjwEstvP4c3wngLrRsq/zPGhVVlHVOLPB/8I35H23A8o2CcgrBPw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rican\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
