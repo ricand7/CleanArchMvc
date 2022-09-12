@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ec0WX1QrAPrND2XnEyXyztcO4wrTB3pAuALkX+E+zEzouqQM6YLog1dp0doTdOAp0b1CufXPovsG5ISbFgV4AA==",
+  "dgSpecHash": "9BUrwfnuAW5PIr3/TRvlCiv2u9AhP0JZzpyVeqAsIAC+BTVTp4GxAnSFrVmsiUmU0DkX6BxhLYV3BhGP0I3/bQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain.Test\\CleanArchMvc.Domain.Test.csproj",
   "expectedPackageFiles": [
@@ -97,7 +97,8 @@
     "C:\\Users\\rican\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\rican\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\rican\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\rican\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\rican\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

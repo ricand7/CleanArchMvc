@@ -1736,6 +1736,9 @@
       "CleanArchMvc.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "System.Threading.Tasks": "4.3.0"
+        },
         "compile": {
           "bin/placeholder/CleanArchMvc.Domain.dll": {}
         },

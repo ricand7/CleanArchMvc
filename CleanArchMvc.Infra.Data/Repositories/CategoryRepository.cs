@@ -15,7 +15,11 @@ namespace CleanArchMvc.Infra.Data.Repositories
             _categoryContext = context;
         }
 
-       
+        public Task<Category> Create(Category category)
+        {
+            throw new System.NotImplementedException();
+        }
+
         public async Task<Category> CreateAsync(Category category)
         {
             _categoryContext.Add(category);
@@ -23,19 +27,30 @@ namespace CleanArchMvc.Infra.Data.Repositories
             return category;
         }
 
+        public Task<Category> GetById(int? id)
+        {
+            throw new System.NotImplementedException();
+        }
+
         public async Task<Category> GetByIdAsync(int? id)
         {
             return await _categoryContext.Categories.FindAsync(id);
         }
 
-      
+        public Task<IEnumerable<Category>> GetCategories()
+        {
+            throw new System.NotImplementedException();
+        }
 
         public async Task<IEnumerable<Category>> GetCategoriesAsync()
         {
             return await _categoryContext.Categories.ToListAsync();
         }
 
-      
+        public Task<Category> Remove(Category category)
+        {
+            throw new System.NotImplementedException();
+        }
 
         public async Task<Category> RemoveAsync(Category category)
         {
@@ -44,7 +59,10 @@ namespace CleanArchMvc.Infra.Data.Repositories
             return category;
         }
 
-       
+        public Task<Category> Update(Category category)
+        {
+            throw new System.NotImplementedException();
+        }
 
         public async Task<Category> UpdateAsync(Category category)
         {

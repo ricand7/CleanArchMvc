@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3I8GCt24Mz0gf46jNS62RR7KR5V81xlnFK8kWT6uBhel6R1XCwwB8GmrEu5r7mJ0kTxsZS6+6w8s5WU8gU7Gnw==",
+  "dgSpecHash": "scq/VFLxyw3JkyWE3JE4PS7W2Pr4z5Vvep8X/OPmdQdPpV3wM/nA3SxJA98830mAlp3WM/JczEgQTgrhxa2Kgg==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rican\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1128,6 +1128,9 @@
       },
       "xunit.runner.visualstudio/2.4.3": {},
       "CleanArchMvc.Domain/1.0.0": {
+        "dependencies": {
+          "System.Threading.Tasks": "4.3.0"
+        },
         "runtime": {
           "CleanArchMvc.Domain.dll": {}
         }

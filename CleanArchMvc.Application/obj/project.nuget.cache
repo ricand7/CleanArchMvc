@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "9mQTpJGEblwo2nARa2cxGEIJExlnYNOX3pDjwEstvP4c3wngLrRsq/zPGhVVlHVOLPB/8I35H23A8o2CcgrBPw==",
+  "dgSpecHash": "BVBe6uuFxM7uNL40KT7arr8VWsZfFBplcCAB6WfgpdG4tPxg0qvFpIq1sv3rp2+1iBqggdZZtPI8AD/uOZjaVQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rican\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\rican\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\rican\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\rican\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\rican\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
