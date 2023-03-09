@@ -308,7 +308,6 @@ C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsof
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -407,3 +406,7 @@ C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsof
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Projetos\CleanArchMvcApplication\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
