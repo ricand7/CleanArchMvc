@@ -3275,7 +3275,7 @@
       ]
     },
     "System.ComponentModel/4.3.0": {
-      "sha512": "ls8wQDu+OBS289CaIsswVarsgv/iUt4QqUpckrACeXCg4e7T1RBCkkvTFzS4K64i56vtXWQ7BEstug0qgPECcA==",
+      "sha512": "VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
       "type": "package",
       "path": "system.componentmodel/4.3.0",
       "files": [
@@ -3819,7 +3819,7 @@
       ]
     },
     "System.Dynamic.Runtime/4.3.0": {
-      "sha512": "j+KsFaqZDTyixCcl/sz3+ibp0yatH/6y6tGYISepFO9LNJta4sb9sxgSm5pK5fs8ZT/DaYpsE51OZ9cRb5ABmg==",
+      "sha512": "SNVi1E/vfWUAs/WYKhE9+qlS6KqK0YVhnlT0HQtr8pMIA8YX3lwy3uPMownDwdYISBdmAF/2holEIldVp85Wag==",
       "type": "package",
       "path": "system.dynamic.runtime/4.3.0",
       "files": [
@@ -4333,7 +4333,7 @@
       ]
     },
     "System.Net.NameResolution/4.3.0": {
-      "sha512": "eNObkDoLuAAZDMZFHISaggT8KQan/b5JFOdmBFeH7s6QOEa7gDbr9dUfHmKJ6y/aT241/Vhch15vD+wF8zFA3w==",
+      "sha512": "AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
       "type": "package",
       "path": "system.net.nameresolution/4.3.0",
       "files": [
@@ -6623,41 +6623,45 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rican\\.nuget\\packages\\": {},
+    "C:\\Users\\rd\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+      "projectUniqueName": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
       "projectName": "CleanArchMvc.Infra.Data",
-      "projectPath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
-      "packagesPath": "C:\\Users\\rican\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Infra.Data\\obj\\",
+      "projectPath": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\rd\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rican\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             }
           }
         }
@@ -6707,18 +6711,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
       }
     }
   }
