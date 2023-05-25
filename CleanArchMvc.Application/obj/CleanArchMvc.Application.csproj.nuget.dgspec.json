@@ -1,40 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {}
+    "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+    "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectUniqueName": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "projectName": "CleanArchMvc.Application",
-        "projectPath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-        "packagesPath": "C:\\Users\\rican\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\obj\\",
+        "projectPath": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "packagesPath": "C:\\Users\\rd\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rican\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -68,44 +71,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
-        "packagesPath": "C:\\Users\\rican\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\obj\\",
+        "projectPath": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\rd\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\CleanArchMvcApplication\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rican\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -139,18 +139,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
         }
       }
     }
